@@ -1,0 +1,22 @@
+#container{
+    margin: auto;
+    border: 5px solid lightblue;
+    padding: 10px;
+    text-align: center;
+    height: 260px;
+    background-color: #0e2431;
+}
+p{
+    font-size: 24px;
+    color: white;
+}
+#user{
+    width: 170px;
+    height: 23px;
+}
+#enterButton{
+    margin: 25px auto auto 5px;
+}
+#outputTest{
+    color: red;
+}
